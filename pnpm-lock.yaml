@@ -3,7 +3,7 @@ lockfileVersion: 5.3
 specifiers:
   '@sveltejs/vite-plugin-svelte': ^1.0.0-next.11
   '@tsconfig/svelte': ^2.0.1
-  eighty-eighty-js: ^1.0.7
+  eighty-eighty-js: ^1.0.8
   nes.css: ^2.3.0
   svelte: ^3.37.0
   svelte-check: ^2.1.0
@@ -15,7 +15,7 @@ specifiers:
   vite-tsconfig-paths: ^3.3.15
 
 dependencies:
-  eighty-eighty-js: 1.0.7
+  eighty-eighty-js: 1.0.8
   nes.css: 2.3.0
   typed-numbers: 1.0.2
 
@@ -212,8 +212,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /eighty-eighty-js/1.0.7:
-    resolution: {integrity: sha512-W7IeC2y9OS0tptH8Rb+qiEAaTulw4PbDVzpXaKE9lvyYaKdMuyKRBxS5IoFxMH3mfNl6ReeuZHhvy85vKQDsFg==}
+  /eighty-eighty-js/1.0.8:
+    resolution: {integrity: sha512-U+rR/lQvkPmDSWQJ7yMCwUnfcySS0AyI89k5w94m8Tj4rgDzLfG2VR+S7g+wxGGS+fLutbHoGcDh6Gt7m4LVXA==}
     engines: {node: '>=14.0.0'}
     dependencies:
       typed-numbers: 1.0.2

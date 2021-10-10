@@ -93,7 +93,7 @@
 			cycle += cpu.next();
 		}
 
-		cpu.handleIntEnabled(interruptAddress);
+		cpu.handleInterrupt(interruptAddress);
 		interruptAddress = u16(interruptAddress == 0x08 ? 0x10 : 0x08);
 
 		while (cycle < 33334) {

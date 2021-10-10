@@ -20,7 +20,7 @@
     "vite-tsconfig-paths": "^3.3.15"
   },
   "dependencies": {
-    "eighty-eighty-js": "^1.0.7",
+    "eighty-eighty-js": "^1.0.8",
     "nes.css": "^2.3.0",
     "typed-numbers": "^1.0.2"
   }
