@@ -23,9 +23,9 @@
 			bindSound(sound3, '/games/lunar-rescue/sounds/alienexplosion.wav');
 			bindSound(sound4, '/games/lunar-rescue/sounds/steph.wav');
 			bindSound(sound5, '/games/lunar-rescue/sounds/stepl.wav');
-			bindSound(sound6, '/games/lunar-rescue/sounds/shootingstar.wav');
+			bindSound(sound6, '/games/lunar-rescue/sounds/bonus2.wav');
 			bindSound(sound7, '/games/lunar-rescue/sounds/bonus3.wav');
-			bindSound(sound8, '/games/lunar-rescue/sounds/bonus2.wav');
+			bindSound(sound8, '/games/lunar-rescue/sounds/shootingstar.wav');
 			break;
 	}
 </script>
