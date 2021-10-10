@@ -12,7 +12,7 @@
 				</select>
 			</div>
 
-			<a class="github-link" href="https://github.com/Skayo/EightyEighty.js" target="_blank">
+			<a class="github-link" href="https://github.com/Skayo/EightyEighty.js" target="_blank" rel="noopener">
 				<i class="nes-icon github is-medium"></i>
 			</a>
 		</div>
